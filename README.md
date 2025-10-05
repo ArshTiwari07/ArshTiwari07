@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArshTiwari07
 - 👀 I’m interested in Entrepreneurship,Coding
-- 🌱 I’m currently learning C,JAVA,MARKETING
+- 🌱 I’m currently learning AI/ML,Front-End Developement
 - 💞️ I’m looking to collaborate on coding projects,buisness ideas.
 - 📫 How to reach me instagram at arshtiwari.07
 - 😄 Pronouns: he/him
