@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ArshTiwari07
 - 👀 I’m interested in Entrepreneurship,Coding
-- 🌱 I’m currently learning AI/ML,Front-End Developement
+- 🌱 I’m currently learning AI/ML,Back-End Developement
 - 💞️ I’m looking to collaborate on coding projects,buisness ideas.
-- 📫 How to reach me instagram at arshtiwari.07
+- 📫 How to reach me LinkedIn at www.linkedin.com/in/arsh-tiwari-8242992bb
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Horses can sleep while standing.
 
